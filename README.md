@@ -1,0 +1,2 @@
+# javascript-initial
+practicing javascript
