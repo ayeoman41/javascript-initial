@@ -15,7 +15,9 @@ let percentage = actual/max
 
 const myName = "Ashaad";
 console.log(myName)
-let lastName = "Yeoman"
+const lastName = "Yeoman";
 console.log(lastName)
 let dblQuote = `I love "This is Us" the movie`;
 console.log(dblQuote)
+let me = [myName] + [lastName]
+console.log(me)
