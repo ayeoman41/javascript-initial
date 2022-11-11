@@ -13,3 +13,7 @@ const max = 57
 let actual = max-13
 let percentage = actual/max
 
+const myName = "Ashaad";
+console.log(myName)
+let lastName = "Yeoman"
+console.log(lastName)
