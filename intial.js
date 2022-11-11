@@ -17,3 +17,5 @@ const myName = "Ashaad";
 console.log(myName)
 let lastName = "Yeoman"
 console.log(lastName)
+let dblquote = `I love "This is Us" the movie`;
+console.log(dblquote)
