@@ -1,6 +1,36 @@
+* {
+    background-color: darkmagenta;
+}
+
 .container {
     display: flex;
     justify-content: space-around;
+    align-items: flex-start;
+}
+
+.mypicture {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.quote {
+
+}
+
+.myinfo {
+
+}
+
+.link1 {
+    border: 1px solid black;
+}
+
+.link2 {
+    border: 1px solid black;
+}
+
+.link3 {
+    border: 1px solid black;
 }
 
 .headerlogo {
