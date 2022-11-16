@@ -24,7 +24,6 @@ body {
     font-size: larger;
     color: hotpink;
     margin-top: 200px;
-
 }
 
 .link1 {
@@ -56,6 +55,9 @@ body {
     border: 1px solid black;
     margin: 40px;
     padding: 10px;
+    position: relative;
+    animation: funlinks;
+    animation-duration: 5s;
 }
 
 .button2 {
@@ -63,6 +65,9 @@ body {
     border: 1px solid black;
     margin: 40px;
     padding: 10px;  
+    position: relative;
+    animation: funlinks;
+    animation-duration: 5s;
 }
 
 .headerlogo {
@@ -71,4 +76,8 @@ body {
 
 .projects {
 
+}
+@keyframes funlinks {
+    0% {top: -1000px}
+    100% {top: 0px}
 }
