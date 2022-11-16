@@ -1,11 +1,11 @@
-* {
-    background-color: darkmagenta;
+body {
+    background-color: blueviolet;
 }
-
 .container {
     display: flex;
     justify-content: space-around;
     align-items: flex-start;
+    margin-bottom: 100px;
 }
 
 .mypicture {
@@ -18,19 +18,31 @@
 }
 
 .myinfo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: hotpink;
 
 }
 
 .link1 {
+    font-size: larger;
     border: 1px solid black;
+    border-radius:5px;
+    background-color: black;
 }
 
 .link2 {
+    font-size: larger;
     border: 1px solid black;
+    border-radius: 5px;
+    background-color: black;
 }
 
 .link3 {
+    font-size: larger;
     border: 1px solid black;
+    border-radius: 5px;
+    background-color: black;
 }
 
 .headerlogo {
