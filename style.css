@@ -1,5 +1,5 @@
 body {
-    background-color: blueviolet;
+    background-image: linear-gradient(to right, blue, indigo, purple);
     text-align: center;
 }
 .container {
